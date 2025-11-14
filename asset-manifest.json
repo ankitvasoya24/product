@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ankitvasoya24/product/static/css/main.931cd79e.css",
-    "main.js": "/ankitvasoya24/product/static/js/main.8e9de6ba.js",
+    "main.js": "/ankitvasoya24/product/static/js/main.133b3483.js",
     "static/js/453.7cc3a59b.chunk.js": "/ankitvasoya24/product/static/js/453.7cc3a59b.chunk.js",
     "index.html": "/ankitvasoya24/product/index.html",
     "main.931cd79e.css.map": "/ankitvasoya24/product/static/css/main.931cd79e.css.map",
-    "main.8e9de6ba.js.map": "/ankitvasoya24/product/static/js/main.8e9de6ba.js.map",
+    "main.133b3483.js.map": "/ankitvasoya24/product/static/js/main.133b3483.js.map",
     "453.7cc3a59b.chunk.js.map": "/ankitvasoya24/product/static/js/453.7cc3a59b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.931cd79e.css",
-    "static/js/main.8e9de6ba.js"
+    "static/js/main.133b3483.js"
   ]
 }
